@@ -6,7 +6,7 @@ html, body {
 
 @font-face {
     font-family: 'google';
-    src: url("fonts/Product\ Sans\ Regular.ttf");
+    src: url("../fonts/Product\ Sans\ Regular.ttf")
   }
 
 a {
