@@ -1,6 +1,6 @@
-# kodemia_google
+# Google
 Ejercicio pagina de google
 
 Github pages:
 
-https://fandopg.github.io/kodemia_google/
+https://fandopg.github.io/google/
